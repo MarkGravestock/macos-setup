@@ -15,3 +15,16 @@ Default terminal replacement
 Pacakage Manager
 
 - [Brew](https://brew.sh/)
+
+Nerd Font
+
+- brew install font-fira-code-nerd-font
+
+Curl
+- brew install curl
+
+Oh My Zsh
+- 
+
+Powerlevel10k Theme for Oh My Zsh
+- brew install powerlevel10k
