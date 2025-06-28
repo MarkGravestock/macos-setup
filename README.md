@@ -11,3 +11,7 @@ Better window management than MacOS
 Default terminal replacement
 
 - [iTerm2](https://iterm2.com/)
+
+Pacakage Manager
+
+- [Brew](https://brew.sh/)
