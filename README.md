@@ -16,10 +16,6 @@ Pacakage Manager
 
 - [Brew](https://brew.sh/)
 
-Nerd Font
-
-- brew install font-fira-code-nerd-font
-
 Curl
 - brew install curl
 
