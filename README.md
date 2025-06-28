@@ -24,7 +24,7 @@ Curl
 - brew install curl
 
 Oh My Zsh
-- 
-
+- sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  
 Powerlevel10k Theme for Oh My Zsh
 - brew install powerlevel10k
