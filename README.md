@@ -24,3 +24,6 @@ Oh My Zsh
   
 Powerlevel10k Theme for Oh My Zsh
 - brew install powerlevel10k
+
+GitHub CLI
+- brew install gh
