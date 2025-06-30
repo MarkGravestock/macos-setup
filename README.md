@@ -27,3 +27,7 @@ Powerlevel10k Theme for Oh My Zsh
 
 GitHub CLI
 - brew install gh
+
+### Java Dev
+
+[SDKMAN](https://sdkman.io/)
