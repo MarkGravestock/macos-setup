@@ -30,4 +30,4 @@ GitHub CLI
 
 ### Java Dev
 
-[SDKMAN](https://sdkman.io/)
+- [SDKMAN](https://sdkman.io/)
