@@ -4,6 +4,10 @@ Instructions on setting up a development MacOS/MacBook
 
 ### App installation
 
+Keyboard Mappings
+- [Hammerspoon](https://www.hammerspoon.org/)
+- [Configuration for Microsoft Sculpt Keyboard](./init.lua)
+
 Better window management than MacOS
 
 - [Rectangle](https://rectangleapp.com/)
