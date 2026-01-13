@@ -5,7 +5,7 @@ Instructions on setting up a development MacOS/MacBook
 ### App installation
 
 Keyboard Mappings
-- [Hammerspoon](https://www.hammerspoon.org/)
+- [Karabiner](https://www.hammerspoon.org/](https://karabiner-elements.pqrs.org/)
 - [Configuration for Microsoft Sculpt Keyboard](./init.lua)
 
 Better window management than MacOS
